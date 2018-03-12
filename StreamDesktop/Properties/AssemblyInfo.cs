@@ -7,8 +7,8 @@ using System.Windows;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("StreamDesktop")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Stream your Desktop")]
+[assembly: AssemblyDescription("Small helper application to show your remote desktop using Steam In-Home streaming")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("gbraad")]
 [assembly: AssemblyProduct("StreamDesktop")]

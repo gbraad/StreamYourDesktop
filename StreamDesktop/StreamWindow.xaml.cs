@@ -51,6 +51,12 @@ namespace StreamDesktop
             SendMessage(lHwnd, WM_COMMAND, (IntPtr)MIN_ALL, IntPtr.Zero);
         }
 
+        public void HideDesktop()
+        {
+            IntPtr lHwnd = FindWindow("Shell_TrayWnd", null);
+            SendMessage(lHwnd, WM_COMMAND, (IntPtr)MIN_ALL_UNDO, IntPtr.Zero);
+        }
+
         public void OpenStartMenu()
         {
             // Press Ctrl-Esc key to open Start menu
@@ -64,9 +70,7 @@ namespace StreamDesktop
 
         private void Window_Closing(object sender, CancelEventArgs e)
         {
-            App.TrayIcon.Close();
-            IntPtr lHwnd = FindWindow("Shell_TrayWnd", null);
-            SendMessage(lHwnd, WM_COMMAND, (IntPtr)MIN_ALL_UNDO, IntPtr.Zero);
+        
         }
 
         private void Window_Activated(object sender, EventArgs e)
