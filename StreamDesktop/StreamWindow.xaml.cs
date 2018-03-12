@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 using System.Windows;
 using System.Windows.Input;
 
-namespace StreamDesktop
+namespace StreamYourDesktop
 {
     /// <summary>
     /// Interaction logic for StreamWindow.xaml
@@ -42,7 +42,7 @@ namespace StreamDesktop
             this.Show();
             this.WindowStyle = WindowStyle.None;
             this.WindowState = WindowState.Maximized;
-            this.Title = "Streaming your desktop";
+            this.Title = "St(r)eam your Desktop";
         }
 
         public void ShowDesktop()

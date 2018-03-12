@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows;
 
-namespace StreamDesktop
+namespace StreamYourDesktop
 {
     /// <summary>
     /// Interaction logic for App.xaml

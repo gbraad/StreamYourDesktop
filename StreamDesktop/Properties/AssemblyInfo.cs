@@ -11,7 +11,7 @@ using System.Windows;
 [assembly: AssemblyDescription("Small helper application to show your remote desktop using Steam In-Home streaming")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("gbraad")]
-[assembly: AssemblyProduct("StreamDesktop")]
+[assembly: AssemblyProduct("StreamYourDesktop")]
 [assembly: AssemblyCopyright("2018 Gerard Braad")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
