@@ -1,6 +1,6 @@
 # St(r)eam your Desktop
 
-[!["Stream your desktop"](https://raw.githubusercontent.com/gbraad/stream-desktop/master/icons/icon.png)](http://github.com/gbraad/stream-desktop)
+[!["Stream your desktop"](https://raw.githubusercontent.com/gbraad/stream-desktop/master/icons/icon_64.png)](http://github.com/gbraad/stream-desktop)
 
 A small helper application that shows maximized and triggers the Start Menu to show. This can help with streaming your remote desktop on Windows using In-Home Streaming. I created this because I wasn't happy with the 'notepad'-workaround and having to press F1, which now opens the Edge browser.
 
