@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamDesktop", "StreamDesktop\StreamDesktop.csproj", "{AFE09BCF-28A4-48EE-876B-FEF080D04D5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE09BCF-28A4-48EE-876B-FEF080D04D5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE09BCF-28A4-48EE-876B-FEF080D04D5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE09BCF-28A4-48EE-876B-FEF080D04D5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE09BCF-28A4-48EE-876B-FEF080D04D5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {199A9817-2004-4458-B45E-881F742780C3}
+	EndGlobalSection
+EndGlobal
